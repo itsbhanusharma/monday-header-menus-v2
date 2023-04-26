@@ -62,3 +62,7 @@ Divider_color:
   default: ""
   description:
     en: "Color for divider lines in submenus. <small>(hex, rgb, rgba or CSS color name)</small>"
+logo_url:
+  default: ""
+  description:
+    en: "Logo URL for Brand Header Logo"
