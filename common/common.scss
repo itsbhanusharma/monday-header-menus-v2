@@ -151,7 +151,7 @@ $icon-opacity: 0.7;
   font-size: 14px;
 }
 
-.bigCTABtn > :hover, :visited {
+.bigCTABtn:hover, .bigCTABtn:visited {
     text-decoration: none;
     color: #ffffff;
   }
