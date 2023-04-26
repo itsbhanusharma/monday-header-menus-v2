@@ -66,3 +66,11 @@ logo_url:
   default: ""
   description:
     en: "Logo URL for Brand Header Logo"
+support_url:
+  default: ""
+  description:
+    en: "Contact Support link in Header"
+sales_url:
+  default: ""
+  description:
+    en: "Contact Sales link in Header"
