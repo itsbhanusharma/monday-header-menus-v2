@@ -66,6 +66,10 @@ logo_url:
   default: ""
   description:
     en: "Logo URL for Brand Header Logo"
+logo_href:
+  default: "#"
+  description:
+    en: "Link for logo image"
 support_url:
   default: ""
   description:
