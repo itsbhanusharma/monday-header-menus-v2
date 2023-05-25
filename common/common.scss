@@ -160,3 +160,24 @@ $icon-opacity: 0.7;
 .cta_links_right {
   margin-left: auto;
 }
+
+.menu-brand-logo {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    img {
+        width: 60%;
+        height: auto;
+    }
+    span {
+        font-weight: 300;
+        text-decoration: none;
+        font-size: 18px;
+        color: #000000;
+    }
+}
+
+.top-menu {
+    padding-top: 5px;
+    padding-bottom: 0;
+}
